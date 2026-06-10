@@ -1,8 +1,3 @@
 .env
 vendor/
 *.log
-
-git add .
-git commit-m "Initial commit:proyecto luxor con base de datos y reportes
-git push _u origin master
-"
